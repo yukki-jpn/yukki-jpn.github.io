@@ -2,14 +2,3 @@ theme: jekyll-theme-cayman
 title: Yuki Sato Pages
 #email: 'yuki.fhs@gmail.com'
 description: test
-baseurl: ...
-url: https://yukki-jpn.github.io/
-#twitter_username: ...
-#github_username: ...
-author: Yuki Sato
-
-# multilang
-languages: ['ja', 'en']
-default_lang: 'ja'
-exclude_from_localization: ['javascript', 'images', 'css']
-parallel_localization: false
