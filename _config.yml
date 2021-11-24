@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
-title: Yuki Sato Pages
-description: test
+title: Yuki Sato's Pages
+description:  >- # this means to ignore newlines until "baseurl:"
+  On this page, I post some useful source codes and memos, such as Julia language, statistical analysis, and finance, for me. 
+  I major in high-frequency finance, a class of stochastic process application, but not statistics. 
+  If you noticed some mistakes or ideas for better coding, please let me know via https://forms.gle/AGB7CRPF4CjiPMFh9 .
