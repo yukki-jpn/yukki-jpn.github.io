@@ -9,7 +9,7 @@ On this page, I post some useful source codes and memos, such as Julia language,
 |topic|description|markdown|notebook|
 |---|---|---|---|
 |高速計算 |Juliaの速度を高速化させるためのメモ|[to be coming]|[to be coming]|
-|Plots.jl |Plotsの使用方法についてのメモ|[link](./Julia/Plots/index.md)|[link](./Julia/Plots/Plots.ipynb)|
+|Plots.jl |Plotsの使用方法についてのメモ|[link](./Julia/Plots/index.md)|[link](./Julia/Plots/Plots.html)|
 |MPI |MPIの方法|[to be coming]|[to be coming]|
 
 ### Statistics
