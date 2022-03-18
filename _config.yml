@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: Yuki Sato's Pages
 description:  >- # this means to ignore newlines until "baseurl:"
   mainly about Julia lang, statistics, stochastic process, and finance.
