@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 email: 'yuki.fhs(at)gmail.com'
 twitter_username: ...
 github_username: ...
-logo: /assets/LOB_describe_NoText.svg
+logo: /assets/LOB_describe_NoText.png
 
 title: Yuki Sato's toolboxes and memos
 description:  >- # this means to ignore newlines until "baseurl:"
