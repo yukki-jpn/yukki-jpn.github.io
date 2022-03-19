@@ -1,10 +1,11 @@
 theme: jekyll-theme-minimal
-email: 'yuki.fhs(at)gmail.com'
-twitter_username: ...
-github_username: ...
-logo: assets/LOB_describe_NoText.png
-
-title: Yuki Sato's toolboxes and memos
+title: 
 description:  >- # this means to ignore newlines until "baseurl:"
   mainly about Julia lang, statistics, stochastic process, and finance.
+
+email: 'yuki.fhs(at)gmail.com'
+
+logo: assets/LOB_describe_NoText.png
+
 google_analytics: G-E8M7KJ8BVB
+repository: "yukki-jpn/yukki-jpn.github.io"
