@@ -8,7 +8,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-fig,ax1=plt.subplots(figsize=(5,5))
+fig,ax1=plt.subplots(figsize=(3,3))
 ax1.axis("off")
 
 #%%-- ask

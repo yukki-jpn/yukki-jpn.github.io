@@ -53,7 +53,12 @@
 |高頻度ファイナンス |Juliaの速度を高速化させるためのメモ|[to be coming]|[to be coming]|
 
 ### 素材
+下記のリンクで提示している画像・コードは、非営利目的の場合に限り自由に使用してください。
+
+These pictures and codes on the following link are available without notification as long as it is not for commercial purposes, which means a creative commons license protects it.
+
+
 | Order book | adfaa |
-| --- | --- |
-| ![picture](materials/OrderBook/LOB_describe_NoText.png) | a |
+| ---- | ---- |
+| ![picture](materials/OrderBook/LOB12.png) | ![picture](materials/OrderBook/LOB12.png) |
 | [View source](materials/OrderBook/OrderBook.md)| [View source] |
