@@ -1,16 +1,26 @@
 # Description of this page
-このページでは、Juliaを初めとする統計やファイナンスなどのメモを投稿します。また、その投稿の意図は大衆に対しての説明ではなく、私の復習用として (つまり、私がひと目見てわかるレベルから)の解説 + コードの形式を取ることが多いと思います。誤植や改善したほうがいいことを見つけた場合は [このリンクから](https://forms.gle/AGB7CRPF4CjiPMFh9)連絡していただけると幸いです。
+このページでは、金融・確率過程の分析で**私が使用する**Julia・Python言語のコードやC++で書かれたABMに関するドキュメント・コードを投稿します。ここで投稿するドキュメントの多くは、主に**私の復習用のメモ**として投稿するため、そのドキュメントは、**私が理解可能なレベルまで縮約した解説 + コードの形式**を取ることが多いと思います。誤植や改善したほうがいい点・質問等を発見した場合は、 下記のフォームから連絡してください。
 
-On this page, I post some useful source codes and memos, such as Julia language, statistical analysis, and finance, for me. I major in high-frequency finance, a class of stochastic process application, but not statistics. If you noticed some mistakes or ideas for better coding, please let me know via https://forms.gle/AGB7CRPF4CjiPMFh9 .
+<iframe src="https://forms.gle/MKF8EPFjNU3b8Ro47" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 ## Post
+
 ### About Julia
+#### about scientific calculation
 
 |topic|description|markdown|notebook|
 |---|---|---|---|
 |高速計算 |Juliaの速度を高速化させるためのメモ|[to be coming]|[to be coming]|
 |Plots.jl |Plotsの使用方法についてのメモ|[link](./Julia/Plots/index.md)|[link](./Julia/Plots/Plots.html)|
 |MPI |MPIの方法|[to be coming]|[to be coming]|
+
+#### about visualization
+
+|topic|description|markdown|notebook|
+|---|---|---|---|
+|Plots.jl |Plotsの使用方法についてのメモ|[link](./Julia/Plots/index.md)|[link](./Julia/Plots/Plots.html)|
 
 ### Statistics
 
@@ -42,3 +52,8 @@ On this page, I post some useful source codes and memos, such as Julia language,
 |Neural spike data analysis|Juliaの速度を高速化させるためのメモ|[to be coming]|[to be coming]|
 |高頻度ファイナンス |Juliaの速度を高速化させるためのメモ|[to be coming]|[to be coming]|
 
+### 素材
+| Order book | adfaa |
+| --- | --- |
+| ![picture](materials/OrderBook/LOB_describe_NoText.png) | a |
+| [View source](materials/OrderBook/OrderBook.md)| [View source] |

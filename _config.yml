@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
-title: toolboxes and memos
+title: お道具箱
 description:  >- # this means to ignore newlines until "baseurl:"
   mainly about Julia lang, statistics, stochastic process, and finance.
 
-
+email: 'yuki.fhs(at)gmail.com'
 logo: assets/LOB_describe_NoText.png
 
 google_analytics: G-E8M7KJ8BVB
