@@ -1,11 +1,17 @@
 # Description of this page
-このページでは、金融・確率過程の分析で**私が使用する**Julia・Python言語のコードやC++で書かれたABMに関するドキュメント・コードを投稿します。ここで投稿するドキュメントの多くは、主に**私の復習用のメモ**として投稿するため、そのドキュメントは、**私が理解可能なレベルまで縮約した解説 + コードの形式**を取ることが多いと思います。誤植や改善したほうがいい点・質問等を発見した場合は、 下記のフォームから連絡してください。
+このページでは、金融・確率過程の分析で**私が使用する**Julia・Python言語のコードやC++で書かれたABMに関するドキュメント・コードを投稿します。ここで投稿するドキュメントの多くは、主に**私の復習用のメモ**として投稿するため、そのドキュメントは、**私が理解可能なレベルまで縮約した解説 + コードの形式**を取ることが多いと思います。誤植や改善したほうがいい点・質問・job offer等は、<a href="#form">ページ下のフォーム</a> から連絡してください。
 
-<iframe src="https://forms.gle/MKF8EPFjNU3b8Ro47" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 
 ## Post
+### LOB dynamics
+
+
+|topic|description|link|
+|---|---|---|
+|LOB|Limit order bookとはなに ?|[View article](OrderBookDynamics/QueueDynamics/WhatLOB.md)|
+
 
 ### About Julia
 #### about scientific calculation
@@ -60,5 +66,7 @@ These pictures and codes on the following link are available without notificatio
 
 | Order book | adfaa |
 | ---- | ---- |
-| ![picture](materials/OrderBook/LOB12.png) | ![picture](materials/OrderBook/LOB12.png) |
-| [View source](materials/OrderBook/OrderBook.md)| [View source] |
+| ![picture](materials/OrderBook/LOB12.png) | ![picture](materials/Queue/FirstQueueDynamics.png) |
+| [View source](materials/OrderBook/OrderBook.md)| [View source](materials/Queue/Queue.md) |
+
+<iframe src="https://forms.gle/MKF8EPFjNU3b8Ro47" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0" id="form">Loading…</iframe>
